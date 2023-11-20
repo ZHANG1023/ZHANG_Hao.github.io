@@ -9,9 +9,9 @@ name_pronunciation: Chien Shiung Wu
 first_name: Hao
 last_name: ZHANG
 
-#Status emoji
-status: Student
-  icon: ☕️
+# #Status emoji
+# status: Student
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
