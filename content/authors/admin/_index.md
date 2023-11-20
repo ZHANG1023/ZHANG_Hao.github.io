@@ -10,8 +10,8 @@ first_name: Hao
 last_name: ZHANG
 
 # Status emoji
-status: Student
-  icon: ☕️
+# status: Student
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
