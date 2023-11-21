@@ -9,7 +9,7 @@ authors:
 - Tai Chi-Keung Tang
 date: '2023-9-22'
 publishDate: '2023-9-22'
-publication_types: NeurIPS 2023
+publication_types: 'NeurIPS 2023'
 - manuscript
 links: https://github.com/BillyXYB/FaceDNeRF
 - name: arXiv
