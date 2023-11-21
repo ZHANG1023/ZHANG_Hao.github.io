@@ -10,7 +10,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-11-21T11:38:22.461605Z'
 publication_types:
-- manuscript
+- NeurIPS 2023
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2306.00783
