@@ -7,11 +7,11 @@ authors:
 - Tianyuan Dai
 - ' Yu-Wing'
 - Tai Chi-Keung Tang
-date: '2023-01-01'
-publishDate: '2023-11-21T11:38:22.461605Z'
+date: '2023-9-22'
+publishDate: '2023-9-22'
 publication_types:
 - NeurIPS 2023
-links:
+links: https://github.com/BillyXYB/FaceDNeRF
 - name: arXiv
   url: https://arxiv.org/abs/2306.00783
 ---
