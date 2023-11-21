@@ -7,9 +7,9 @@ authors:
 - Tianyuan Dai
 - ' Yu-Wing'
 - Tai Chi-Keung Tang
-date: '2023-9-22's
+date: '2023-9-22'
 publishDate: '2023-9-22'
-# publication_types: NeurIPS 2023
+publication_types: ['paper-conference']
 # - manuscript
 links: 
 - name: Github

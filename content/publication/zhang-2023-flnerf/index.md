@@ -7,7 +7,7 @@ authors:
 - Chi-Keung Tang
 date: '2023-08'
 publishDate: '2023-08'
-publication_types: CHAMPION of Final Year Project Competition 2022-2023, IEEE (Hong Kong) Computational Intelligence Chapter
+publication_types: ['paper-conference']
 # - manuscript
 links: 
 - name: Github
