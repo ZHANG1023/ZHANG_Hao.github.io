@@ -8,8 +8,8 @@ authors:
 date: '2023-08'
 publishDate: '2023-08'
 publication_types: CHAMPION of Final Year Project Competition 2022-2023, IEEE (Hong Kong) Computational Intelligence Chapter
-- manuscript
-links: https://github.com/ZHANG1023/FLNeRF
-- name: arXiv
-  url: https://arxiv.org/abs/2211.11202
+# - manuscript
+links: 
+- name: Github
+  url: https://github.com/ZHANG1023/FLNeRF
 ---
