@@ -20,7 +20,7 @@ image:
   preview_only: false
 title: 'FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF'
 date: 2024-01-05
-authors: ["Hao Zhang","Yu-Wing Tai", "Chi-Keung Tang"]
+authors: ["Hao Zhang", "Chi-Keung Tang","Yu-Wing Tai"]
 publication_types: ["arxiv"]
 featured: False
 url_pdf: "https://arxiv.org/abs/2401.02616"
