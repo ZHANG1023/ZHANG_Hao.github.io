@@ -17,15 +17,15 @@ status: Student
 superuser: true
 
 # Role/position/tagline
-role: Mphil student of HKUST
+role: Ph.D. student of CUHK, MMLab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HKUST
-    url: https://hkust.edu.hk/
+  - name: CUHK
+    url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NeRF, Generative model.
+bio: My research interests include NeRF, 3DGS and Generative model.
 
 # Interests to show in About widget
 interests:
@@ -36,9 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Electornic Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2024 - Current
     - course: Mphil in Computer Science and Engineering
       institution: The Hong Kong University of Science and Technology
-      year: 2023 - current
+      year: 2023 - 2024
     - course: BSc in Computer Science and Mathematics
       institution: The Hong Kong University of Science and Technology
       year: 2019 - 2023
@@ -90,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hzhangcc@cse.ust.hk
+    link: mailto:hzhangcc@link.cuhk.edu.hk
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
