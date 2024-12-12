@@ -119,7 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Currently, I am a first-year Ph.D. student at MMLab, supervised by the Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
 
-Currently, I am an Mphil student in Computer Science, under the supervision of Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). 
-
-I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I did my final year project under the supervision of Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). My current research interests are in computer vision, including Neural Radiance Field(NeRF) Generative Modeling, Human Face Editing, and understanding in the 3D data domain. I am also very interested in exploring other realms of machine learning and their intersection with computer vision.
+I received my Mphil degree in Computer Science, under the supervision of Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I did my final year project under the supervision of Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing Tai](https://yuwingtai.github.io/). My current research interests are in computer vision, including Neural Radiance Field(NeRF) Generative Modeling, Human Face Editing, and understanding in the 3D data domain. I am also very interested in exploring other realms of machine learning and their intersection with computer vision.
